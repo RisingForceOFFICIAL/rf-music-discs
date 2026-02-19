@@ -42,5 +42,15 @@
   "music.old_town_road": {"sounds": [{"name": "rfmusic:music/old_town_road", "stream": true}]},
   "music.astronomia": {"sounds": [{"name": "rfmusic:music/astronomia", "stream": true}]},
   "music.deja_vu": {"sounds": [{"name": "rfmusic:music/deja_vu", "stream": true}]},
-  "music.running_90s": {"sounds": [{"name": "rfmusic:music/running_90s", "stream": true}]}
+  "music.running_90s": {"sounds": [{"name": "rfmusic:music/running_90s", "stream": true}]},
+  "music.weightless": {"sounds": [{"name": "rfmusic:music/weightless", "stream": true}]},
+  "music.clair_de_lune": {"sounds": [{"name": "rfmusic:music/clair_de_lune", "stream": true}]},
+  "music.merry_go_round": {"sounds": [{"name": "rfmusic:music/merry_go_round", "stream": true}]},
+  "music.experience": {"sounds": [{"name": "rfmusic:music/experience", "stream": true}]},
+  "music.river_flows": {"sounds": [{"name": "rfmusic:music/river_flows", "stream": true}]},
+  "music.gymnopedies": {"sounds": [{"name": "rfmusic:music/gymnopedies", "stream": true}]},
+  "music.smoke_water": {"sounds": [{"name": "rfmusic:music/smoke_water", "stream": true}]},
+  "music.highway_hell": {"sounds": [{"name": "rfmusic:music/highway_hell", "stream": true}]},
+  "music.paranoid": {"sounds": [{"name": "rfmusic:music/paranoid", "stream": true}]},
+  "music.crazy_train": {"sounds": [{"name": "rfmusic:music/crazy_train", "stream": true}]}
 }

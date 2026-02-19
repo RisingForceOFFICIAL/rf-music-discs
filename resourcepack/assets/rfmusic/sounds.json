@@ -1,0 +1,10 @@
+{
+  "music.spokoynaya_noch": {
+    "sounds": [
+      {
+        "name": "rfmusic:music/spokoynaya_noch",
+        "stream": true
+      }
+    ]
+  }
+}

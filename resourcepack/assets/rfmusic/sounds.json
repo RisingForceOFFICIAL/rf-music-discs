@@ -22,5 +22,23 @@
   },
   "music.take_five": {
     "sounds": [{ "name": "rfmusic:music/take_five", "stream": true }]
+  },
+  "music.halo_theme": {
+    "sounds": [{ "name": "rfmusic:music/halo_theme", "stream": true }]
+  },
+  "music.doom_bfg": {
+    "sounds": [{ "name": "rfmusic:music/doom_bfg", "stream": true }]
+  },
+  "music.skyrim_dragonborn": {
+    "sounds": [{ "name": "rfmusic:music/skyrim_dragonborn", "stream": true }]
+  },
+  "music.pirates_caribbean": {
+    "sounds": [{ "name": "rfmusic:music/pirates_caribbean", "stream": true }]
+  },
+  "music.imperial_march": {
+    "sounds": [{ "name": "rfmusic:music/imperial_march", "stream": true }]
+  },
+  "music.interstellar": {
+    "sounds": [{ "name": "rfmusic:music/interstellar", "stream": true }]
   }
 }

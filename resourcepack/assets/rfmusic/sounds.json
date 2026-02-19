@@ -1,10 +1,26 @@
 {
   "music.spokoynaya_noch": {
-    "sounds": [
-      {
-        "name": "rfmusic:music/spokoynaya_noch",
-        "stream": true
-      }
-    ]
+    "sounds": [{ "name": "rfmusic:music/spokoynaya_noch", "stream": true }]
+  },
+  "music.soldier_of_fortune": {
+    "sounds": [{ "name": "rfmusic:music/soldier_of_fortune", "stream": true }]
+  },
+  "music.blind_man_cries": {
+    "sounds": [{ "name": "rfmusic:music/blind_man_cries", "stream": true }]
+  },
+  "music.and_justice_for_all": {
+    "sounds": [{ "name": "rfmusic:music/and_justice_for_all", "stream": true }]
+  },
+  "music.one_metallica": {
+    "sounds": [{ "name": "rfmusic:music/one_metallica", "stream": true }]
+  },
+  "music.pachka_sigaret": {
+    "sounds": [{ "name": "rfmusic:music/pachka_sigaret", "stream": true }]
+  },
+  "music.kalinka": {
+    "sounds": [{ "name": "rfmusic:music/kalinka", "stream": true }]
+  },
+  "music.take_five": {
+    "sounds": [{ "name": "rfmusic:music/take_five", "stream": true }]
   }
 }

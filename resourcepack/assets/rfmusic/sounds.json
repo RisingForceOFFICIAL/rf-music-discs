@@ -52,5 +52,14 @@
   "music.smoke_water": {"sounds": [{"name": "rfmusic:music/smoke_water", "stream": true}]},
   "music.highway_hell": {"sounds": [{"name": "rfmusic:music/highway_hell", "stream": true}]},
   "music.paranoid": {"sounds": [{"name": "rfmusic:music/paranoid", "stream": true}]},
-  "music.crazy_train": {"sounds": [{"name": "rfmusic:music/crazy_train", "stream": true}]}
+  "music.crazy_train": {"sounds": [{"name": "rfmusic:music/crazy_train", "stream": true}]},
+  "music.rip_tear": {"sounds": [{"name": "rfmusic:music/rip_tear", "stream": true}]},
+  "music.the_only_thing": {"sounds": [{"name": "rfmusic:music/the_only_thing", "stream": true}]},
+  "music.meathook": {"sounds": [{"name": "rfmusic:music/meathook", "stream": true}]},
+  "music.dark_souls_firelink": {"sounds": [{"name": "rfmusic:music/dark_souls_firelink", "stream": true}]},
+  "music.bloodborne_hunter": {"sounds": [{"name": "rfmusic:music/bloodborne_hunter", "stream": true}]},
+  "music.heart_of_courage": {"sounds": [{"name": "rfmusic:music/heart_of_courage", "stream": true}]},
+  "music.victory": {"sounds": [{"name": "rfmusic:music/victory", "stream": true}]},
+  "music.protectors_earth": {"sounds": [{"name": "rfmusic:music/protectors_earth", "stream": true}]},
+  "music.flight_of_fury": {"sounds": [{"name": "rfmusic:music/flight_of_fury", "stream": true}]}
 }

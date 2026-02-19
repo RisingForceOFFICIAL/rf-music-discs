@@ -32,5 +32,15 @@
   "music.never_gonna_give": {"sounds": [{"name": "rfmusic:music/never_gonna_give", "stream": true}]},
   "music.megalovania": {"sounds": [{"name": "rfmusic:music/megalovania", "stream": true}]},
   "music.sweden_c418": {"sounds": [{"name": "rfmusic:music/sweden_c418", "stream": true}]},
-  "music.ezios_family": {"sounds": [{"name": "rfmusic:music/ezios_family", "stream": true}]}
+  "music.ezios_family": {"sounds": [{"name": "rfmusic:music/ezios_family", "stream": true}]},
+  "music.blinding_lights": {"sounds": [{"name": "rfmusic:music/blinding_lights", "stream": true}]},
+  "music.starboy": {"sounds": [{"name": "rfmusic:music/starboy", "stream": true}]},
+  "music.sunflower": {"sounds": [{"name": "rfmusic:music/sunflower", "stream": true}]},
+  "music.bad_guy": {"sounds": [{"name": "rfmusic:music/bad_guy", "stream": true}]},
+  "music.levitating": {"sounds": [{"name": "rfmusic:music/levitating", "stream": true}]},
+  "music.industry_baby": {"sounds": [{"name": "rfmusic:music/industry_baby", "stream": true}]},
+  "music.old_town_road": {"sounds": [{"name": "rfmusic:music/old_town_road", "stream": true}]},
+  "music.astronomia": {"sounds": [{"name": "rfmusic:music/astronomia", "stream": true}]},
+  "music.deja_vu": {"sounds": [{"name": "rfmusic:music/deja_vu", "stream": true}]},
+  "music.running_90s": {"sounds": [{"name": "rfmusic:music/running_90s", "stream": true}]}
 }

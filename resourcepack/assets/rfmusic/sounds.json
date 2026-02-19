@@ -1,44 +1,36 @@
 {
-  "music.spokoynaya_noch": {
-    "sounds": [{ "name": "rfmusic:music/spokoynaya_noch", "stream": true }]
-  },
-  "music.soldier_of_fortune": {
-    "sounds": [{ "name": "rfmusic:music/soldier_of_fortune", "stream": true }]
-  },
-  "music.blind_man_cries": {
-    "sounds": [{ "name": "rfmusic:music/blind_man_cries", "stream": true }]
-  },
-  "music.and_justice_for_all": {
-    "sounds": [{ "name": "rfmusic:music/and_justice_for_all", "stream": true }]
-  },
-  "music.one_metallica": {
-    "sounds": [{ "name": "rfmusic:music/one_metallica", "stream": true }]
-  },
-  "music.pachka_sigaret": {
-    "sounds": [{ "name": "rfmusic:music/pachka_sigaret", "stream": true }]
-  },
-  "music.kalinka": {
-    "sounds": [{ "name": "rfmusic:music/kalinka", "stream": true }]
-  },
-  "music.take_five": {
-    "sounds": [{ "name": "rfmusic:music/take_five", "stream": true }]
-  },
-  "music.halo_theme": {
-    "sounds": [{ "name": "rfmusic:music/halo_theme", "stream": true }]
-  },
-  "music.doom_bfg": {
-    "sounds": [{ "name": "rfmusic:music/doom_bfg", "stream": true }]
-  },
-  "music.skyrim_dragonborn": {
-    "sounds": [{ "name": "rfmusic:music/skyrim_dragonborn", "stream": true }]
-  },
-  "music.pirates_caribbean": {
-    "sounds": [{ "name": "rfmusic:music/pirates_caribbean", "stream": true }]
-  },
-  "music.imperial_march": {
-    "sounds": [{ "name": "rfmusic:music/imperial_march", "stream": true }]
-  },
-  "music.interstellar": {
-    "sounds": [{ "name": "rfmusic:music/interstellar", "stream": true }]
-  }
+  "music.spokoynaya_noch": {"sounds": [{"name": "rfmusic:music/spokoynaya_noch", "stream": true}]},
+  "music.soldier_of_fortune": {"sounds": [{"name": "rfmusic:music/soldier_of_fortune", "stream": true}]},
+  "music.blind_man_cries": {"sounds": [{"name": "rfmusic:music/blind_man_cries", "stream": true}]},
+  "music.and_justice_for_all": {"sounds": [{"name": "rfmusic:music/and_justice_for_all", "stream": true}]},
+  "music.one_metallica": {"sounds": [{"name": "rfmusic:music/one_metallica", "stream": true}]},
+  "music.pachka_sigaret": {"sounds": [{"name": "rfmusic:music/pachka_sigaret", "stream": true}]},
+  "music.kalinka": {"sounds": [{"name": "rfmusic:music/kalinka", "stream": true}]},
+  "music.take_five": {"sounds": [{"name": "rfmusic:music/take_five", "stream": true}]},
+  "music.halo_theme": {"sounds": [{"name": "rfmusic:music/halo_theme", "stream": true}]},
+  "music.doom_bfg": {"sounds": [{"name": "rfmusic:music/doom_bfg", "stream": true}]},
+  "music.skyrim_dragonborn": {"sounds": [{"name": "rfmusic:music/skyrim_dragonborn", "stream": true}]},
+  "music.pirates_caribbean": {"sounds": [{"name": "rfmusic:music/pirates_caribbean", "stream": true}]},
+  "music.imperial_march": {"sounds": [{"name": "rfmusic:music/imperial_march", "stream": true}]},
+  "music.interstellar": {"sounds": [{"name": "rfmusic:music/interstellar", "stream": true}]},
+  "music.bohemian_rhapsody": {"sounds": [{"name": "rfmusic:music/bohemian_rhapsody", "stream": true}]},
+  "music.hotel_california": {"sounds": [{"name": "rfmusic:music/hotel_california", "stream": true}]},
+  "music.africa_toto": {"sounds": [{"name": "rfmusic:music/africa_toto", "stream": true}]},
+  "music.dont_stop_me_now": {"sounds": [{"name": "rfmusic:music/dont_stop_me_now", "stream": true}]},
+  "music.sweet_child_o_mine": {"sounds": [{"name": "rfmusic:music/sweet_child_o_mine", "stream": true}]},
+  "music.back_in_black": {"sounds": [{"name": "rfmusic:music/back_in_black", "stream": true}]},
+  "music.thunderstruck": {"sounds": [{"name": "rfmusic:music/thunderstruck", "stream": true}]},
+  "music.eye_of_tiger": {"sounds": [{"name": "rfmusic:music/eye_of_tiger", "stream": true}]},
+  "music.comfortably_numb": {"sounds": [{"name": "rfmusic:music/comfortably_numb", "stream": true}]},
+  "music.stairway_heaven": {"sounds": [{"name": "rfmusic:music/stairway_heaven", "stream": true}]},
+  "music.september": {"sounds": [{"name": "rfmusic:music/september", "stream": true}]},
+  "music.mr_blue_sky": {"sounds": [{"name": "rfmusic:music/mr_blue_sky", "stream": true}]},
+  "music.smooth_criminal": {"sounds": [{"name": "rfmusic:music/smooth_criminal", "stream": true}]},
+  "music.billie_jean": {"sounds": [{"name": "rfmusic:music/billie_jean", "stream": true}]},
+  "music.final_countdown": {"sounds": [{"name": "rfmusic:music/final_countdown", "stream": true}]},
+  "music.take_on_me": {"sounds": [{"name": "rfmusic:music/take_on_me", "stream": true}]},
+  "music.never_gonna_give": {"sounds": [{"name": "rfmusic:music/never_gonna_give", "stream": true}]},
+  "music.megalovania": {"sounds": [{"name": "rfmusic:music/megalovania", "stream": true}]},
+  "music.sweden_c418": {"sounds": [{"name": "rfmusic:music/sweden_c418", "stream": true}]},
+  "music.ezios_family": {"sounds": [{"name": "rfmusic:music/ezios_family", "stream": true}]}
 }
